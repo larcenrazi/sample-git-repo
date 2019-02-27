@@ -3,6 +3,7 @@ package org.lrazi.model;
 public class User {
 	
 	private String name;
+	private int age;
 
 	public String getName() {
 		return name;
